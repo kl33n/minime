@@ -10,9 +10,9 @@ Main Features:
 - Switchable between Endswitch and sensorless Homing via Solderjumper
 - Switchable between +5V and +24V Probe via Solderjumper
 - Switchable between +5V and +24V Fan Supply via Solderjumper
-- Hotend Fan (Fan1) uses a 3 pin Header: VCC, GND and speedometer signal for savety reasons
-- Fan speedometer signal can be set up in Klippe. If the speed of the Hotend Fan is not detectable, Klipper shuts down the printer
-- Part Fan (Fan2, Sunon MF50152VX-1L01C-Q99) uses a 4 pin Header: VCC, GND and PWM signal for directly control the speed, speedometer signal is n.c.
+- Hotend Fan (Fan1) uses a 3 pin Header: VCC, GND and tachometer signal for savety reasons
+- Fan tachometer signal can be set up in Klipper. If the speed of the Hotend Fan is not detectable, Klipper shuts down the printer
+- Part Fan (Fan2, Sunon MF50152VX-1L01C-Q99) uses a 4 pin Header: VCC, GND and PWM signal for directly control the speed, tachometer signal is n.c.
 - Integrated bat85 diode (or similar) if using the +24V probe
 - Raspberry Pi Pico is used with pin headers to completely exchange the module if broken
 
