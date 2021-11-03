@@ -23,6 +23,8 @@ Raspberry Pi Pico (with RP2040 Microcontroller):
 - Raspberry Pi Host Version --> Raspberry Pi Pico has to be flashed with klipper.uf2 (UART Communication Option)
 - Raspberry Pi Pico standalone Version --> Raspberry Pi Pico has to be flashed with klipper.uf2 (USB Communication Option)
 
-![20211009_142807](https://user-images.githubusercontent.com/63971082/136657995-72b43971-b637-41dd-9ba2-68b54d284a6b.jpg)
+![136657995-72b43971-b637-41dd-9ba2-68b54d284a6b](https://user-images.githubusercontent.com/63971082/140177575-df1185c2-680d-46fd-8e71-2933c701401b.jpg)
+
+For more informations visit: https://www.weil-ich-ein-otto-bin.de/baumschmuser (under construction!)
 
 Has to be continued!
