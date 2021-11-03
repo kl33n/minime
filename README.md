@@ -23,9 +23,3 @@ Raspberry Pi Pico (with RP2040 Microcontroller):
 ![20211009_142807](https://user-images.githubusercontent.com/63971082/136657995-72b43971-b637-41dd-9ba2-68b54d284a6b.jpg)
 
 Has to be continued!
-
-[
-  ![Donate with PayPal]
-  (https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)
-]
-(https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QT54MSJR6QU7Y)
