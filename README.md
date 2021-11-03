@@ -1,6 +1,6 @@
 # minime
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/kl33n)
+[![paypal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/kl33n)
 
 3D printer mainboard Minime + Minime_mini, using a Raspberry Pi Pico (RP2040). Can be used on top of a Raspberry Pi or as standalone version.
 
