@@ -25,6 +25,4 @@ Raspberry Pi Pico (with RP2040 Microcontroller):
 
 ![136657995-72b43971-b637-41dd-9ba2-68b54d284a6b](https://user-images.githubusercontent.com/63971082/140177575-df1185c2-680d-46fd-8e71-2933c701401b.jpg)
 
-For more informations visit: https://www.weil-ich-ein-otto-bin.de/baumschmuser (under construction!)
-
 Has to be continued!
