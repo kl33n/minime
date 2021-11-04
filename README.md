@@ -25,4 +25,8 @@ Raspberry Pi Pico (with RP2040 Microcontroller):
 
 ![136657995-72b43971-b637-41dd-9ba2-68b54d284a6b](https://user-images.githubusercontent.com/63971082/140177575-df1185c2-680d-46fd-8e71-2933c701401b.jpg)
 
+Future Modification:
+- Switch from Raspberry Pi Pico Module to RP2040 integrated circuit
+- Design two RP2040 MCU board, a host version with more than 4 stepper driver as driverboard and a separat sensorboard version including endswitches/hotend/bed/fans/temperatursensors and much more
+
 Has to be continued!
