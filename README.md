@@ -29,4 +29,6 @@ Future Modification:
 - Switch from Raspberry Pi Pico Module to RP2040 integrated circuit
 - Design two RP2040 MCU board, a host version with more than 4 stepper driver as driverboard and a separat sensorboard version including endswitches/hotend/bed/fans/temperatursensors and much more
 
+More informations on: www.weil-ich-ein-otto-bin.de/kl33n
+
 Has to be continued!
