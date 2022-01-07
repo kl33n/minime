@@ -2,7 +2,7 @@
 
 [![paypal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/kl33n)
 
-3D printer mainboard Minime + Minime_mini, using a Raspberry Pi Pico (RP2040). Can be used on top of a Raspberry Pi or as standalone version.
+3D printer mainboard Minime + Minime_mini, using a Raspberry Pi Pico (RP2040). Can be used on top of a Raspberry Pi or as standalone USB version.
 
 The main goal of creating this little board was to design a 3D printer mainboard with Raspberry Pi Pico (RP2040) as MCU running Klipper firmware. Because of the limited number of I/O pins and ADC pins the board results in a very minimalistic (only 4 Stepper Driver on minime_mini) but also universal PCB.
 
